@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\api",
+    "\\api\\controllers",
+    "\\api\\routes",
+    "\\frontend"
+  ],
+  "SelectedNode": "\\api\\controllers\\user.js",
+  "PreviewInSolutionExplorer": false
+}
