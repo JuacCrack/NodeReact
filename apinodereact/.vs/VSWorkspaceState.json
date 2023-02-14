@@ -1,11 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\api",
-    "\\api\\controllers",
-    "\\api\\routes",
-    "\\frontend"
+    "\\frontend",
+    "\\frontend\\src"
   ],
-  "SelectedNode": "\\api\\controllers\\user.js",
+  "SelectedNode": "\\frontend\\package.json",
   "PreviewInSolutionExplorer": false
 }
